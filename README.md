@@ -82,20 +82,21 @@
 
 ---
 
+---
+
 # Hostel Management
 
 ## Live Demo
 
-[Click here to see the live demo]([https://your-frontend-url.vercel.app](https://fascinating-seahorse-1ef1af.netlify.app/))
+[Click here to see the live demo](https://fascinating-seahorse-1ef1af.netlify.app/)
 
 ---
 
 ## Screenshots
 
-![Home Page](<img width="1340" height="604" alt="Screenshot 2025-08-08 181856" src="https://github.com/user-attachments/assets/cb607b9e-8273-41fc-b92b-f16a1cbc3d03" />
-)  
-![Feature](<img width="1339" height="634" alt="Screenshot 2025-08-08 181955" src="https://github.com/user-attachments/assets/b8284ad0-58cb-4de4-ad0b-905bb74cb3c2" />
-)
+![Home Page](https://github.com/abdulkaium775/your-repo-name/raw/main/screenshots/homepage.png)
+
+![Feature](https://github.com/abdulkaium775/your-repo-name/raw/main/screenshots/feature.png)
 
 ---
 
@@ -116,4 +117,5 @@ Key features include:
 This app demonstrates my skills in full-stack web development, MongoDB optimization, React hooks, and deployment best practices.
 
 ---
+
 

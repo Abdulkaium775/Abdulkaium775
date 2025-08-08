@@ -92,14 +92,6 @@
 
 ---
 
-## Screenshots
-
-![Home Page](https://github.com/abdulkaium775/your-repo-name/raw/main/screenshots/homepage.png)
-
-![Feature](https://github.com/abdulkaium775/your-repo-name/raw/main/screenshots/feature.png)
-
----
-
 ## Description
 
 This project is a **Hostel Management** built with the MERN stack (MongoDB, Express.js, React, Node.js).  

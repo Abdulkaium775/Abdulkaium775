@@ -82,24 +82,26 @@
 
 ---
 
-# Project Name
+# Hostel Management
 
 ## Live Demo
 
-[Click here to see the live demo](https://your-frontend-url.vercel.app)
+[Click here to see the live demo]([https://your-frontend-url.vercel.app](https://fascinating-seahorse-1ef1af.netlify.app/))
 
 ---
 
 ## Screenshots
 
-![Home Page](./screenshots/homepage.png)  
-![Feature](./screenshots/feature.png)
+![Home Page](<img width="1340" height="604" alt="Screenshot 2025-08-08 181856" src="https://github.com/user-attachments/assets/cb607b9e-8273-41fc-b92b-f16a1cbc3d03" />
+)  
+![Feature](<img width="1339" height="634" alt="Screenshot 2025-08-08 181955" src="https://github.com/user-attachments/assets/b8284ad0-58cb-4de4-ad0b-905bb74cb3c2" />
+)
 
 ---
 
 ## Description
 
-This project is a **Hostel Meal Service App** built with the MERN stack (MongoDB, Express.js, React, Node.js).  
+This project is a **Hostel Management** built with the MERN stack (MongoDB, Express.js, React, Node.js).  
 It allows hostel students to browse, request, and review meals easily through a modern, responsive web interface.  
 The backend uses RESTful APIs to manage users, meals, orders, and authentication securely.  
 

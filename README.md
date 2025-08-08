@@ -1,3 +1,4 @@
+
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/9714486e-bc90-4cdc-be7b-dcf5f7dfcbeb" 
@@ -8,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Kaium</h1>
-<h3 align="center">Full Stack Developer — React, Node.js, MongoDB</h3>
+<h3 align="center">Frontend & Backend Developer — React, Node.js, MongoDB</h3>
 
 <p align="center"> 
   <img 
@@ -56,6 +57,13 @@ Currently, I am focused on optimizing MongoDB queries and learning Next.js for a
 
 ---
 
+## Projects
+
+- **Hostel Meal Service App** (MERN stack) — A modern web app that allows students to browse, request, and review meals easily.  
+- [See all my projects on GitHub](https://github.com/abdulkaium775)  
+
+---
+
 ## Connect with Me
 
 <p align="left">
@@ -87,3 +95,32 @@ Currently, I am focused on optimizing MongoDB queries and learning Next.js for a
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium775" alt="GitHub Streak" width="450" />
 </p>
+
+---
+
+# Hostel Management Project
+
+## Live Demo
+
+[Click here to see the live demo](https://fascinating-seahorse-1ef1af.netlify.app/)
+
+---
+
+## Description
+
+This project is a **Hostel Management** web application built with the MERN stack (MongoDB, Express.js, React, Node.js).  
+It enables hostel students to browse, request, and review meals easily through a modern, responsive interface.  
+The backend is powered by secure RESTful APIs managing users, meals, orders, and authentication.  
+
+### Key features:  
+- User authentication and role-based access control  
+- Meal browsing with powerful search  
+- Meal requests and likes with a badge system  
+- Admin dashboard for managing meals and users  
+- Integration with Stripe for secure payments  
+- Fully responsive design for desktop and mobile  
+
+This app showcases my skills in full-stack development, MongoDB optimization, React hooks, and deployment best practices.
+
+---
+

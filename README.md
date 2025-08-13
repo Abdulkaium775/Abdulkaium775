@@ -50,12 +50,14 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 ---
 
 ## 🛠 Skills Progress
-<p><b>React:</b> <img src="https://progress-bar.dev/95/?color=61DAFB&height=20" alt="React"/></p>
-<p><b>Node.js:</b> <img src="https://progress-bar.dev/90/?color=339933&height=20" alt="Node.js"/></p>
-<p><b>Express.js:</b> <img src="https://progress-bar.dev/85/?color=6E6E6E&height=20" alt="Express.js"/></p>
-<p><b>MongoDB:</b> <img src="https://progress-bar.dev/90/?color=47A248&height=20" alt="MongoDB"/></p>
-<p><b>Tailwind CSS:</b> <img src="https://progress-bar.dev/80/?color=38B2AC&height=20" alt="Tailwind CSS"/></p>
-<p><b>Next.js:</b> <img src="https://progress-bar.dev/75/?color=000000&height=20" alt="Next.js"/></p>
+
+<p><b>React:</b> <img src="https://img.shields.io/badge/React-95%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/></p>
+<p><b>Node.js:</b> <img src="https://img.shields.io/badge/Node.js-90%25-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></p>
+<p><b>Express.js:</b> <img src="https://img.shields.io/badge/Express.js-85%25-6E6E6E?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></p>
+<p><b>MongoDB:</b> <img src="https://img.shields.io/badge/MongoDB-90%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></p>
+<p><b>Tailwind CSS:</b> <img src="https://img.shields.io/badge/TailwindCSS-80%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></p>
+<p><b>Next.js:</b> <img src="https://img.shields.io/badge/Next.js-75%25-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></p>
+
 
 ---
 

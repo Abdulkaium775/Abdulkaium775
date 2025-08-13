@@ -16,19 +16,6 @@
 
 ---
 
-## ⚡ Tech Stack
-<p align="center">
-  <!-- Animated Skill Badges -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-</p>
-
----
-
 ## 🚀 About Me
 I’m a **Full-Stack Web Developer** passionate about building **clean, scalable, and user-friendly web applications**.  
 I specialize in the **MERN stack** and enjoy exploring new technologies to solve **real-world problems**.
@@ -43,6 +30,18 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 
 ---
 
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-6e6e6e?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Next.js-6e6e6e?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+</p>
+
+---
+
 ## 🛠 Skills Progress
 <p align="left">
   <b>React</b><br>
@@ -54,7 +53,7 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 </p>
 <p align="left">
   <b>Express.js</b><br>
-  <img src="https://progress-bar.dev/85/?color=000000&height=20" alt="Express.js"/>
+  <img src="https://progress-bar.dev/85/?color=6e6e6e&height=20" alt="Express.js"/>
 </p>
 <p align="left">
   <b>MongoDB</b><br>
@@ -66,7 +65,7 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 </p>
 <p align="left">
   <b>Next.js</b><br>
-  <img src="https://progress-bar.dev/75/?color=000000&height=20" alt="Next.js"/>
+  <img src="https://progress-bar.dev/75/?color=6e6e6e&height=20" alt="Next.js"/>
 </p>
 
 ---
@@ -83,11 +82,11 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkaium775&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkaium775&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulkaium775&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkaium775&layout=compact&theme=react&hide_border=true" alt="Top Languages" width="300"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium775&theme=radical&hide_border=true" alt="GitHub Streak" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium775&theme=react&hide_border=true" alt="GitHub Streak" width="450"/>
 </p>
 
 ---
@@ -115,4 +114,20 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
   <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Coding Animation" width="300"/>
   <br>
   <i>Keep coding, keep learning! ☕💻</i>
+</p>
+
+---
+
+## 💌 Visitor Greeting Card (Dynamic)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulkaium775.abdulkaium775&style=for-the-badge&text=Welcome!👋" alt="Visitor Badge"/>
+  <br>
+  <i>👋 Hello! Hope your day is productive 🚀✨</i>
+</p>
+
+---
+
+## 💡 Motivational Quote Section (Dynamic)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Motivational Quote"/>
 </p>

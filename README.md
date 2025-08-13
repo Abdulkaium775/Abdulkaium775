@@ -45,14 +45,31 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 
 ## 🛠 Skills
 
-### 🌐 Frontend
-React, React Hooks, Next.js, HTML5, CSS3, Tailwind CSS  
-
-### ⚙️ Backend
-Node.js, Express.js, MongoDB, Mongoose  
-
-### 🛠 Tools & Platforms
-Git, GitHub, Figma, Docker, Stripe, JWT Auth, REST API, Postman  
+### 🌐 Tech Stack Progress
+<p align="left">
+  <b>React</b> <br>
+  <img src="https://progress-bar.dev/95/?color=61DAFB&height=20" alt="React"/>
+</p>
+<p align="left">
+  <b>Node.js</b> <br>
+  <img src="https://progress-bar.dev/90/?color=339933&height=20" alt="Node.js"/>
+</p>
+<p align="left">
+  <b>Express.js</b> <br>
+  <img src="https://progress-bar.dev/85/?color=000000&height=20" alt="Express.js"/>
+</p>
+<p align="left">
+  <b>MongoDB</b> <br>
+  <img src="https://progress-bar.dev/90/?color=47A248&height=20" alt="MongoDB"/>
+</p>
+<p align="left">
+  <b>Tailwind CSS</b> <br>
+  <img src="https://progress-bar.dev/80/?color=38B2AC&height=20" alt="Tailwind CSS"/>
+</p>
+<p align="left">
+  <b>Next.js</b> <br>
+  <img src="https://progress-bar.dev/75/?color=000000&height=20" alt="Next.js"/>
+</p>
 
 ---
 

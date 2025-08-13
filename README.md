@@ -70,6 +70,17 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 
 ---
 
+## 🌐 Animated Tech Stack
+### Frontend
+<img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="40"/> React, React Hooks, Next.js  
+<img src="https://media.giphy.com/media/3o7TKP1c1p8mZUEcJ2/giphy.gif" width="40"/> Tailwind CSS  
+
+### Backend
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40"/> Node.js, Express.js  
+<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="40"/> MongoDB, Mongoose  
+
+---
+
 ## 📂 Featured Projects
 | Project | Description | Demo | Code |
 |--------|-------------|------|------|

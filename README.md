@@ -131,3 +131,12 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Motivational Quote"/>
 </p>
+
+---
+
+## 📝 Random Coding Tip (Dynamic)
+<p align="center">
+  <img src="https://readme-coding-tips.vercel.app/api?theme=react" alt="Random Coding Tip"/>
+  <br>
+  <i>💻 Tip rotates on each page load!</i>
+</p>

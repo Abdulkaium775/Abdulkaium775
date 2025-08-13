@@ -11,6 +11,13 @@
 <h3 align="center">💻 Full-Stack Web Developer | MERN Stack Specialist</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulkaium775&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## ⚡ Tech Stack
+<p align="center">
   <!-- Animated Skill Badges -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
@@ -18,13 +25,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-</p>
-
-<p align="center"> 
-  <img 
-    src="https://komarev.com/ghpvc/?username=abdulkaium775&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="Profile views" 
-  /> 
 </p>
 
 ---
@@ -43,31 +43,29 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 
 ---
 
-## 🛠 Skills
-
-### 🌐 Tech Stack Progress
+## 🛠 Skills Progress
 <p align="left">
-  <b>React</b> <br>
+  <b>React</b><br>
   <img src="https://progress-bar.dev/95/?color=61DAFB&height=20" alt="React"/>
 </p>
 <p align="left">
-  <b>Node.js</b> <br>
+  <b>Node.js</b><br>
   <img src="https://progress-bar.dev/90/?color=339933&height=20" alt="Node.js"/>
 </p>
 <p align="left">
-  <b>Express.js</b> <br>
+  <b>Express.js</b><br>
   <img src="https://progress-bar.dev/85/?color=000000&height=20" alt="Express.js"/>
 </p>
 <p align="left">
-  <b>MongoDB</b> <br>
+  <b>MongoDB</b><br>
   <img src="https://progress-bar.dev/90/?color=47A248&height=20" alt="MongoDB"/>
 </p>
 <p align="left">
-  <b>Tailwind CSS</b> <br>
+  <b>Tailwind CSS</b><br>
   <img src="https://progress-bar.dev/80/?color=38B2AC&height=20" alt="Tailwind CSS"/>
 </p>
 <p align="left">
-  <b>Next.js</b> <br>
+  <b>Next.js</b><br>
   <img src="https://progress-bar.dev/75/?color=000000&height=20" alt="Next.js"/>
 </p>
 
@@ -80,6 +78,17 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 | Portfolio Website | Responsive developer portfolio built with React & Tailwind CSS | [🔗 Live](#) | [💻 GitHub](#) |
 
 [🔗 View all projects](https://github.com/abdulkaium775)  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulkaium775&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkaium775&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium775&theme=radical&hide_border=true" alt="GitHub Streak" width="450"/>
+</p>
 
 ---
 
@@ -101,11 +110,9 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 
 ---
 
-## 📊 GitHub Stats
+## 🎉 Fun Section
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkaium775&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkaium775&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium775&theme=radical&hide_border=true" alt="GitHub Streak" width="450"/>
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" alt="Coding Animation" width="300"/>
+  <br>
+  <i>Keep coding, keep learning! ☕💻</i>
 </p>

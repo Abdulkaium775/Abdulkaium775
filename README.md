@@ -1,4 +1,3 @@
-
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/9714486e-bc90-4cdc-be7b-dcf5f7dfcbeb" 
@@ -78,7 +77,8 @@ Currently, I am focused on optimizing MongoDB queries and learning Next.js for a
   </a>
 </p>
 
-📫 Email: abdulkaium.80775@gmail.com
+📫 Email: **[abdulkaium.80775@gmail.com](mailto:abdulkaium.80775@gmail.com)**  
+📱 Phone: **[01601080775](tel:01601080775)**
 
 ---
 
@@ -121,6 +121,3 @@ The backend is powered by secure RESTful APIs managing users, meals, orders, and
 - Fully responsive design for desktop and mobile  
 
 This app showcases my skills in full-stack development, MongoDB optimization, React hooks, and deployment best practices.
-
----
-

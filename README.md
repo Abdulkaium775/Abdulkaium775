@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 I’m a **Full-Stack Web Developer** passionate about building **clean, scalable, and user-friendly web applications**.  
-I specialize in the **MERN stack** and enjoy exploring new technologies to solve **real-world problems**.
+I specialize in the **MERN stack** and enjoy exploring new technologies to solve **real-world problems**.  
 
 ---
 
@@ -31,42 +31,29 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 ---
 
 ## ⚡ Tech Stack
+### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+</p>
+
+### Backend
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-6E6E6E?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
 ---
 
 ## 🛠 Skills Progress
-<p align="left">
-  <b>React</b><br>
-  <img src="https://progress-bar.dev/95/?color=61DAFB&height=20" alt="React"/>
-</p>
-<p align="left">
-  <b>Node.js</b><br>
-  <img src="https://progress-bar.dev/90/?color=339933&height=20" alt="Node.js"/>
-</p>
-<p align="left">
-  <b>Express.js</b><br>
-  <img src="https://progress-bar.dev/85/?color=6E6E6E&height=20" alt="Express.js"/>
-</p>
-<p align="left">
-  <b>MongoDB</b><br>
-  <img src="https://progress-bar.dev/90/?color=47A248&height=20" alt="MongoDB"/>
-</p>
-<p align="left">
-  <b>Tailwind CSS</b><br>
-  <img src="https://progress-bar.dev/80/?color=38B2AC&height=20" alt="Tailwind CSS"/>
-</p>
-<p align="left">
-  <b>Next.js</b><br>
-  <img src="https://progress-bar.dev/75/?color=000000&height=20" alt="Next.js"/>
-</p>
+<p><b>React:</b> <img src="https://progress-bar.dev/95/?color=61DAFB&height=20" alt="React"/></p>
+<p><b>Node.js:</b> <img src="https://progress-bar.dev/90/?color=339933&height=20" alt="Node.js"/></p>
+<p><b>Express.js:</b> <img src="https://progress-bar.dev/85/?color=6E6E6E&height=20" alt="Express.js"/></p>
+<p><b>MongoDB:</b> <img src="https://progress-bar.dev/90/?color=47A248&height=20" alt="MongoDB"/></p>
+<p><b>Tailwind CSS:</b> <img src="https://progress-bar.dev/80/?color=38B2AC&height=20" alt="Tailwind CSS"/></p>
+<p><b>Next.js:</b> <img src="https://progress-bar.dev/75/?color=000000&height=20" alt="Next.js"/></p>
 
 ---
 
@@ -129,7 +116,7 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 
 ---
 
-## 💌 Visitor Greeting Card (Dynamic)
+## 💌 Visitor Greeting Card
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulkaium775.abdulkaium775&style=for-the-badge&text=Welcome!👋" alt="Visitor Badge"/>
   <br>
@@ -138,8 +125,7 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 
 ---
 
-## 💡 Motivational Quote Section (Dynamic)
+## 💡 Motivational Quote Section
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Motivational Quote"/>
 </p>
-

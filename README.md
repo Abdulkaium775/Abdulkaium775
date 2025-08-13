@@ -34,10 +34,10 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-6e6e6e?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Express.js-6E6E6E?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Next.js-6e6e6e?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
 
 ---
@@ -53,7 +53,7 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 </p>
 <p align="left">
   <b>Express.js</b><br>
-  <img src="https://progress-bar.dev/85/?color=6e6e6e&height=20" alt="Express.js"/>
+  <img src="https://progress-bar.dev/85/?color=6E6E6E&height=20" alt="Express.js"/>
 </p>
 <p align="left">
   <b>MongoDB</b><br>
@@ -65,7 +65,7 @@ I specialize in the **MERN stack** and enjoy exploring new technologies to solve
 </p>
 <p align="left">
   <b>Next.js</b><br>
-  <img src="https://progress-bar.dev/75/?color=6e6e6e&height=20" alt="Next.js"/>
+  <img src="https://progress-bar.dev/75/?color=000000&height=20" alt="Next.js"/>
 </p>
 
 ---

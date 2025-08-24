@@ -1,12 +1,12 @@
-You said:
 <p align="center">
   <img 
-    src="./images/banner.png" 
+    src="https://i.postimg.cc/XYmfnygB/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-2.png" 
     alt="Profile Banner" 
-    width="900" 
+    width="1000" 
     style="max-width: 100%; height: auto; border-radius: 12px;" 
   />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Abdul Kaium</h1>
 <h3 align="center">💻 Full-Stack Web Developer | MERN Stack Specialist</h3>

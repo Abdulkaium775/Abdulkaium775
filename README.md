@@ -1,7 +1,7 @@
 You said:
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/9714486e-bc90-4cdc-be7b-dcf5f7dfcbeb" 
+    src="[https://github.com/user-attachments/assets/9714486e-bc90-4cdc-be7b-dcf5f7dfcbeb](https://www.canva.com/design/DAGvdG1_13A/IqlvCexHyJJvgSbp588rWQ/edit)" 
     alt="Profile Banner" 
     width="900" 
     style="max-width: 100%; height: auto; border-radius: 12px;" 
